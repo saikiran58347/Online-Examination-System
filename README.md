@@ -2,7 +2,7 @@
 
 
 
-An online examination system for students and faculty.
+An online examination system for students and administrators.
 
 Online Examination System
 
