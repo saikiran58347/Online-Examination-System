@@ -1,0 +1,7 @@
+Login Module
+
+The login module allows students to enter:
+- Username
+- Password
+
+After successful login, the student can access available examinations.
