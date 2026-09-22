@@ -2,7 +2,9 @@
 
 
 
-An online examination system for students and faculty.
+An online examination platform for students to attend exams.
+
+
 
 Online Examination System
 
