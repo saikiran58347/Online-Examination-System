@@ -1,0 +1,8 @@
+Result Module
+
+The result module displays:
+- Student name
+- Exam name
+- Marks obtained
+- Total marks
+- Pass/Fail status
